@@ -4,4 +4,4 @@
 
 ✨ Это модпак, который сделает вашу игру намного приятнее и комфортнее.
 
-![Banner](.banner.png 'EOL Modpack')
+![Banner](.mc.png 'EOL Modpack')
